@@ -8,5 +8,5 @@
 | [Прогнозирование температуры сплава](alloy-temperature-forecasting) | Задача регрессии для прогнозирования температуры жидкого сплава на основе данных производственного процесса. | *Pandas*, *NumPy*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *CatBoost* |
 | [Классификация токсичных комментариев для Викишоп](toxic-text-classification) | Разработка модели для классификации токсичных комментариев в интернет-магазине. | *Pandas*, *NLTK*, *spaCy*, *Scikit-learn*, *Huggingface Transformers* |
 | [Прогнозирование количества заказов такси](taxi-order-forecasting) | Разработка модели для прогнозирования количества заказов такси на следующий час в аэропортах, оптимизация работы такси. | *Pandas*, *Scikit-learn*, *Matplotlib*, *Seaborn* |
-| [Оценка прибыльности нефтедобычи по регионам](oil-profitability-analysis) | Прогнозирование запасов нефти и выбор наиболее прибыльного региона для инвестиций, с учетом рисков. | *Pandas*, *NumPy*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *Bootstrap* |
+| [Оценка прибыльности нефтедобычи по регионам](oil-reserves-forecast) | Прогнозирование запасов нефти и выбор наиболее прибыльного региона для инвестиций, с учетом рисков. | *Pandas*, *NumPy*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *Bootstrap* |
 
