@@ -9,4 +9,6 @@
 | [Классификация токсичных комментариев для Викишоп](toxic-text-classification) | Разработка модели для классификации токсичных комментариев в интернет-магазине. | *Pandas*, *NLTK*, *spaCy*, *Scikit-learn*, *Huggingface Transformers* |
 | [Прогнозирование количества заказов такси](taxi-order-forecasting) | Разработка модели для прогнозирования количества заказов такси на следующий час в аэропортах, оптимизация работы такси. | *Pandas*, *Scikit-learn*, *Matplotlib*, *Seaborn* |
 | [Оценка прибыльности нефтедобычи по регионам](oil-reserves-forecast) | Прогнозирование запасов нефти и выбор наиболее прибыльного региона для инвестиций, с учетом рисков. | *Pandas*, *NumPy*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *Bootstrap* |
-
+| [Прогнозирование удоя и вкуса молока](dairy-cow-selection) | Классификация и регрессия: прогноз удоя и вкусовых качеств молока для выбора коров. | *Pandas*, *NumPy*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *Phik*, *joblib* |
+| [Прогноз удовлетворённости и увольнения сотрудников](employee-turnover-prediction) | Построение моделей для оценки удовлетворённости сотрудников и вероятности увольнения. | *Pandas*, *NumPy*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *SHAP*, *Phik* |
+| [Прогноз снижения покупательской активности](customer-activity-prediction) | Модель классификации для выявления клиентов с риском снижения активности и предложений удержания. | *Pandas*, *Scikit-learn*, *Matplotlib*, *Seaborn*, *Pipeline*, *SHAP* |
